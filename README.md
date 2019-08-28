@@ -9,4 +9,5 @@ To start this project just open the <b>index.html</b> and allow the WebCam.
 ### Reference Documentation
 
 [Transfer learning image classifier](https://www.tensorflow.org/js/tutorials/transfer/image_classification)
+
 [TensorFlow JS examples](https://github.com/tensorflow/tfjs-examples)
